@@ -1,11 +1,15 @@
 body{
-    background-color: aqua;
+    background-color: lightsteelblue;
 
 
 }
 
 h1{
-    color: brown;
+    color: indigo;
     font-family: sans-serif;
 }
+p{
+    color: purple;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
 
+}
