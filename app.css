@@ -1,13 +1,17 @@
 body{
+
     background-color: orchid;
+
 
 
 }
 
 h1{
-    color: indianred;
-    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
-    font-size: small ;
+
+    color: indigo;
+    font-family: sans-serif;
+    font-size: large;
+
 }
 p{
     color: purple;
