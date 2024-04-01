@@ -1,15 +1,16 @@
 body{
-    background-color: lightsteelblue;
+    background-color: orchid;
 
 
 }
 
 h1{
-    color: indigo;
-    font-family: sans-serif;
+    color: indianred;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: small ;
 }
 p{
     color: purple;
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
-
+    
 }
